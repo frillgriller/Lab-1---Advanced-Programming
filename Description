@@ -1,0 +1,12 @@
+Danyyal Ahmed Khalid
+BSCS-3B
+#7524
+
+Description:
+The code achieves matrix multiplication using Iterative as well as the Strassen Recursive methodologies. This is done using algorithms, and appropriately assigning algorithms.
+
+How to run:
+Values have been put into the code, and the code needs to be compiled in a Java environment.
+
+Testing:
+The code is also tested using Junit (code supplied), and by putting in appropriate conditions.
